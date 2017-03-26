@@ -1,4 +1,4 @@
-VENDOR_FOLDER := vendor/widevine/omap4
+VENDOR_FOLDER := vendor/widevine/arm-generic
 
 PRODUCT_COPY_FILES += \
 	$(VENDOR_FOLDER)/proprietary/system/lib/libdrmdecrypt.so:system/lib/libdrmdecrypt.so \
