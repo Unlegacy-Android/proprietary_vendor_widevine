@@ -1,4 +1,4 @@
-VENDOR_FOLDER := vendor/widevine/tegra3
+VENDOR_FOLDER := vendor/widevine/arm-generic
 
 PRODUCT_COPY_FILES += \
     $(VENDOR_FOLDER)/proprietary/vendor/lib/libdrmdecrypt.so:system/vendor/lib/libdrmdecrypt.so \
